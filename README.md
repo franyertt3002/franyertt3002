@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- BANNER TÍTULO PRINCIPAL (Letra cuadrada limpia en SVG Azul Rey) -->
+  <!-- BANNER TÍTULO PRINCIPAL (Sin la palabra Hola) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=700&height=50&lines=Futuro+Ingeniero+de+Sistemas;Desarrollador+Full-Stack+%26+Auditor" alt="Título Tipográfico Cuadrado" />
 
   <p align="center">
@@ -9,37 +9,40 @@
 
   <br>
 
-  <!-- LENGUAJES DE PROGRAMACIÓN (Exclusivamente logos cuadrados pequeños con bordes redondeados) -->
+  <!-- LENGUAJES DE PROGRAMACIÓN -->
   <h3>🌐 Lenguajes de Programación</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,postgres,python,java,c&theme=dark" alt="Lenguajes de Programación" />
   </p>
 
-  <!-- HERRAMIENTAS Y ENTORNOS -->
+  <!-- HERRAMIENTAS Y ENTORNOS (Sin el primer logo naranja) -->
   <h3>🛠️ Herramientas & Entornos</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Herramientas" />
+    <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="Herramientas" />
     <img src="https://img.shields.io/badge/-Tkinter-0052CC?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Tkinter" />
     <img src="https://img.shields.io/badge/-AI_Tools-0052CC?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="AI Tools" />
   </p>
+
+  <br>
+
+  <!-- PORTAFOLIO SIN LÍNEA GRIS DEBAJO -->
+  <p size="5"><b>💻 Portafolio de Proyectos</b></p>
+  <p><i>Haz clic en cada caja desplegable para ver el detalle de los proyectos:</i></p>
 
 </div>
 
 <br>
 
-<!-- PORTAFOLIO DE PROYECTOS (Diseño en Cajas / Módulos) -->
-<h2 align="center">💻 Portafolio de Proyectos</h2>
-
-<p align="center"><i>Haz clic en cada caja desplegable para ver el detalle de los proyectos:</i></p>
+<!-- CAJAS DESPLEGABLES EN AZUL REY CON TEXTO BLANCO -->
 
 <!-- CAJA 1: DESARROLLO WEB -->
-<table>
+<table width="100%">
   <tr>
-    <td bgcolor="#0052CC" width="100%">
+    <td bgcolor="#0052CC">
       <details>
-        <summary><b><font color="#FFFFFF" size="4">🌐 1. Desarrollo Web & Plataformas Full-Stack (Desplegar)</font></b></summary>
+        <summary><b><font color="#FFFFFF" size="3">🌐 1. Desarrollo Web & Plataformas Full-Stack (Desplegar)</font></b></summary>
         <br>
-        <div align="left">
+        <font color="#FFFFFF">
           <h4>🎓 Sistema Web de Gestión Académica y Control Escolar</h4>
           <ul>
             <li><b>Descripción:</b> Plataforma web integral para instituciones educativas que permite la inscripción de materias por estudiantes, carga masiva de notas por profesores y generación de reportes descargables.</li>
@@ -53,7 +56,7 @@
             <li><b>Impacto:</b> Demuestra la capacidad de integrar herramientas de IA generativa para construir productos digitales escalables en tiempos récord.</li>
             <li><b>Stack:</b> <code>Web Technologies</code> <code>AI Tools</code> <code>Prompt Engineering</code></li>
           </ul>
-        </div>
+        </font>
       </details>
     </td>
   </tr>
@@ -62,20 +65,20 @@
 <br>
 
 <!-- CAJA 2: BASE DE DATOS Y AUDITORÍA -->
-<table>
+<table width="100%">
   <tr>
-    <td bgcolor="#0052CC" width="100%">
+    <td bgcolor="#0052CC">
       <details>
-        <summary><b><font color="#FFFFFF" size="4">📊 2. Auditoría Lógica & Base de Datos (Desplegar)</font></b></summary>
+        <summary><b><font color="#FFFFFF" size="3">📊 2. Auditoría Lógica & Base de Datos (Desplegar)</font></b></summary>
         <br>
-        <div align="left">
+        <font color="#FFFFFF">
           <h4>📊 Motor de Auditoría Lógica y Control de Calidad en PostgreSQL</h4>
           <ul>
             <li><b>Descripción:</b> Herramienta de backend en Python que ejecuta diagnósticos de calidad sobre bases de datos PostgreSQL. Identifica inconsistencias, duplicación de identificadores (RIF/Cédula) y fallas de formato en correos electrónicos.</li>
             <li><b>Impacto:</b> Reduce errores de datos en entornos de producción y automatiza reportes de integridad.</li>
             <li><b>Stack:</b> <code>Python</code> <code>PostgreSQL</code> <code>psycopg2</code></li>
           </ul>
-        </div>
+        </font>
       </details>
     </td>
   </tr>
@@ -84,20 +87,20 @@
 <br>
 
 <!-- CAJA 3: AUTOMATIZACIÓN -->
-<table>
+<table width="100%">
   <tr>
-    <td bgcolor="#0052CC" width="100%">
+    <td bgcolor="#0052CC">
       <details>
-        <summary><b><font color="#FFFFFF" size="4">⚙️ 3. Suite de Automatización & Manipulación de Archivos (Desplegar)</font></b></summary>
+        <summary><b><font color="#FFFFFF" size="3">⚙️ 3. Suite de Automatización & Manipulación de Archivos (Desplegar)</font></b></summary>
         <br>
-        <div align="left">
+        <font color="#FFFFFF">
           <ul>
             <li><b>Conversor .TXT a .XLSX:</b> Automatiza la migración de archivos planos a hojas de cálculo formateadas para análisis financiero o administrativo.</li>
             <li><b>Clasificador de Archivos:</b> Script que organiza automáticamente directorios complejos agrupando archivos por extensión y tipo.</li>
             <li><b>Gestor Multiformato (.txt, .xlsx, .json):</b> Herramienta para transformar y reestructurar estructuras de datos entre diferentes formatos corporativos.</li>
             <li><b>Stack:</b> <code>Python</code> <code>Pandas</code> <code>OpenPyXL</code> <code>OS Module</code></li>
           </ul>
-        </div>
+        </font>
       </details>
     </td>
   </tr>
@@ -106,19 +109,19 @@
 <br>
 
 <!-- CAJA 4: ESCRITORIO -->
-<table>
+<table width="100%">
   <tr>
-    <td bgcolor="#0052CC" width="100%">
+    <td bgcolor="#0052CC">
       <details>
-        <summary><b><font color="#FFFFFF" size="4">🎮 4. Aplicaciones Interactivas & Escritorio (Desplegar)</font></b></summary>
+        <summary><b><font color="#FFFFFF" size="3">🎮 4. Aplicaciones Interactivas & Escritorio (Desplegar)</font></b></summary>
         <br>
-        <div align="left">
+        <font color="#FFFFFF">
           <h4>🎮 Aplicación Interactiva de Escritorio (Python + Tkinter)</h4>
           <ul>
             <li><b>Descripción:</b> Juego interactivo desarrollado en Python utilizando la librería GUI Tkinter, enfocado en el manejo de eventos en tiempo real, interfaz gráfica nativa y gestión de estados de la aplicación.</li>
             <li><b>Stack:</b> <code>Python</code> <code>Tkinter</code></li>
           </ul>
-        </div>
+        </font>
       </details>
     </td>
   </tr>
