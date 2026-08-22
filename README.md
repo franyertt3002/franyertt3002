@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER TÍTULO PRINCIPAL (Letra cuadrada limpia en SVG Azul Rey) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=700&height=50&lines=%C2%A1Hola!+Futuro+Ingeniero+de+Sistemas;Desarrollador+Full-Stack+%26+Auditor" alt="Título Tipográfico Cuadrado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=700&height=50&lines=%C2%A1+Futuro+Ingeniero+de+Sistemas;Desarrollador+Full-Stack+%26+Auditor" alt="Título Tipográfico Cuadrado" />
 
   <p align="center">
     Desarrollador Full-Stack y Auditor de Código especializado en la creación de aplicaciones web, automatización de procesos empresariales y optimización de bases de datos. Combino lógica de desarrollo moderna con herramientas de Inteligencia Artificial para acelerar entregables y mantener estándares de código limpio, seguro y eficiente.
